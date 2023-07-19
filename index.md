@@ -12,9 +12,9 @@ Although I took a course on Data Structures and Algorithms, I feel like I did no
 
 I'm also learning Python 3 to practice them in.
 
-## What to expect from me on GitHub
+## My GitHub
 
-I plan on uploading my **cheatsheets** here.
+I plan on uploading my **cheatsheets** there.
 
 I'm aspiring to be a better programmer by learning more about programming languages and concepts. While I learn, I like creating cheatsheets to help me fully understand something and to reference in the future. I grab information that I find useful from multiple sources including official documentation. I don't plan on making them perfect or to teach someone not familiar with the language/concept everything they need to know, but more of a quick refence and some notes on trickier subjects.
 
