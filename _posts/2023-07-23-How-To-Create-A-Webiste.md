@@ -6,4 +6,6 @@ published: false
 tags: "Website", "GitHub Pages"
 post_url: 
 ---
+
+<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll>
 This is a tutorial for creating a static website hosted by GitHub Pages.
