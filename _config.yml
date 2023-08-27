@@ -6,7 +6,7 @@ defaults:  # can be overriden in the files' front matter
   -
     scope: 
       path: ""
-      type: "pages" # pages, posts, drafts, or any collection
+      type: "" # pages, posts, drafts, or any collection
     values:
       layout: "default"
   -
